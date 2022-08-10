@@ -89,3 +89,7 @@ sr.reveal('.contact_info', {})
 sr.reveal('.email-link', { interval: 200 })
 sr.reveal('.contact_social-icon', { delay: 300 })
 
+// Freelance Project
+sr.reveal('.freelance_project_1', { distance: '20px', delay: 50, interval: 100 })
+sr.reveal('.freelance_project_2', { distance: '20px', delay: 50, interval: 100 })
+sr.reveal('.freelance_project_3', { distance: '20px', delay: 50, interval: 100 })
